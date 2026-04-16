@@ -13,7 +13,7 @@ The workflow includes:
 - Model evaluation using R² score and residual analysis
 
 Results
-The final model achieves strong predictive performance with good alignment between actual and predicted prices.
+The final model achieves predictive performance with good alignment between actual and predicted prices.
 
 Tools & Libraries
 - Python
